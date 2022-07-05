@@ -1,8 +1,9 @@
 <!-- Intestazione -->
 <div align='center' id='top'>
-<div>
-<img src='./public/facicon.png' alt='Vegipes Logo' width = '80'>
-<h1 style='color:green'>Vegipes</h1>
+  <div>
+    <img src='./public/facicon.png' alt='Vegipes Logo' width = '80'>
+    <h1 style='color:green'>Vegipes</h1>
+  </div>
 </div>
 <br>
 
@@ -24,7 +25,7 @@
 
 <!-- Informazioni sul progetto -->
 ## About the project
-<p>The site is very simple and allows you to search through many vegetarian recipes. All recipe data are fetched by [Spoonacular](https://spoonacular.com/food-api) API. Therefore it is possible that the daily requests made with my key can be exhausted. In this case a section has been created in which you can insert your key.</p>
+<p>The site is very simple and allows you to search through many vegetarian recipes. All recipe data are fetched by <a href='https://spoonacular.com/food-api'>Spoonacular</a>API. Therefore it is possible that the daily requests made with my key can be exhausted. In this case a section has been created in which you can insert your key.</p>
 <div align='center'>
 <img src='./images/screen1.png' alt='Initial Page' width = '500'>
 </div>
