@@ -14,7 +14,7 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; 
+  -moz-osx-font-smoothing: grayscale;
   font-family: Sniglet;
 }
 
@@ -193,7 +193,7 @@ p {
     background: $second-color;
     transition: all .45s ease-in-out;
   }
-  .nav-toggle > .bar::before, 
+  .nav-toggle > .bar::before,
   .nav-toggle > .bar::after {
     content: '';
     position: absolute;
@@ -256,7 +256,7 @@ p {
   display: flex;
   padding-top: 10px;
   justify-content: center;
-  
+
   .category {
     display: flex;
     flex-direction: column;
@@ -332,7 +332,7 @@ p {
     grid-gap: 1rem;
   }
 }
-// Recipe 
+// Recipe
 .page {
   width: 100%;
   display: flex;
@@ -399,7 +399,7 @@ p {
     .recipe-img {
       display: flex;
       align-items: center;
-      
+
 
       img {
         object-fit: contain;
@@ -412,7 +412,7 @@ p {
     margin-bottom: 20px;
   }
 }
-// Error 
+// Error
 .error {
   display: flex;
   flex-direction: column;
@@ -437,7 +437,7 @@ h1 {
   padding: 10px;
   background-color: $main-color;
 }
-//Key 
+//Key
 .key {
   margin-top: 50px;
   a {
@@ -481,7 +481,7 @@ h1 {
     font-size: $mid-title;
     padding-bottom: 15px;
   }
-  .loading {  
+  .loading {
     h3 {
       padding: 80px 0;
     }
@@ -522,7 +522,7 @@ h1 {
     .category {
       .cat-title {
         font-size: 0.75rem;;
-      }  
+      }
       button {
         height: 40px;
         width: 40px;
@@ -555,8 +555,8 @@ h1 {
     .recipe-title {
       font-size: 1.5rem;
     }
-  
-    .subtitle {  
+
+    .subtitle {
       .icon {
         font-size: 1rem;
       }
@@ -564,7 +564,7 @@ h1 {
         font-size: 1.25rem;
       }
     }
-  
+
     .main-flex {
       display: flex;
       flex-direction: column-reverse;
@@ -574,13 +574,13 @@ h1 {
       }
     }
   }
-   
+
   .error {
     h1 {
       font-size: 1.75rem;
       padding: 70px 0;
     }
-    
+
     .btn-home {
       width: 180px;
       padding: 10px;
@@ -599,7 +599,7 @@ h1 {
     width: 100%;
     display: flex;
     justify-content: center;
-    
+
     .page-center {
       width: $min-width;
     }
@@ -608,7 +608,7 @@ h1 {
     font-size: $min-title;
     padding-bottom: 10px;
   }
-  .loading {  
+  .loading {
     h3 {
       padding: 60px 0;
     }
@@ -664,7 +664,7 @@ h1 {
     .category {
       .cat-title {
         font-size: 0.75rem;;
-      }  
+      }
       button {
         height: 40px;
         width: 40px;
@@ -697,8 +697,8 @@ h1 {
     .recipe-title {
       font-size: 1.25rem;
     }
-  
-    .subtitle {  
+
+    .subtitle {
       .icon {
         font-size: 0.75rem;
       }
@@ -706,7 +706,7 @@ h1 {
         font-size: 1rem;
       }
     }
-  
+
     .main-flex {
       display: flex;
       flex-direction: column-reverse;
@@ -721,7 +721,7 @@ h1 {
       font-size: 1.5rem;
       padding: 60px 0;
     }
-    
+
     .btn-home {
       width: 150px;
       padding: 10px;
